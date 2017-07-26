@@ -6,7 +6,7 @@ Use github issues to write blogs:smile:
 
 `images` contain all the images used in blogs
 
-`README.md` contain readme informatino
+`README.md` contain readme information
 
 ## Blog list
 1. [个人使用xxnet小结](https://github.com/uniqueyehu/blog/issues/1)
