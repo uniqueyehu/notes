@@ -2,11 +2,11 @@
 Use github issues to write blogs:smile:
 
 ## Contents
-`blogmd` 包含issues里博客的Markdown文件备份
+`blogmd` contain the backup Markdown files of blogs in issues
 
-`images` 包含博客中所用的图片
+`images` contain all the images used in blogs
 
-`README.md` 包含说明信息
+`README.md` contain readme informatino
 
 ## Blog list
 1. [个人使用xxnet小结](https://github.com/uniqueyehu/blog/issues/1)
