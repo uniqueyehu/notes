@@ -11,6 +11,8 @@ Use github issues to write blogs:smile:
 ## Blog list
 1. [个人使用xxnet小结](https://github.com/uniqueyehu/blog/issues/1)
 
+2. [Git使用总结](https://github.com/uniqueyehu/blog/issues/2)
+
 ## QuickStart to Markdown
 https://guides.github.com/features/mastering-markdown/
 
