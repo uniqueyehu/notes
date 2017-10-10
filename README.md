@@ -1,8 +1,8 @@
 # Blog
-Use github issues to write blogs:smile:
+Use github to write blogs:smile:
 
 ## Contents
-`blogmd` contain the backup Markdown files of blogs in issues
+`blogmd` contain the Markdown files of blogs
 
 `images` contain all the images used in blogs
 
