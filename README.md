@@ -9,9 +9,9 @@ Use github issues to write blogs:smile:
 `README.md` contain readme information
 
 ## Blog list
-1. [个人使用xxnet小结](https://github.com/uniqueyehu/blog/issues/1)
+1. [个人使用xxnet小结](https://github.com/uniqueyehu/blog/blob/master/blogmd/xxnet.md)
 
-2. [Git使用总结](https://github.com/uniqueyehu/blog/issues/2)
+2. [Git使用总结](https://github.com/uniqueyehu/blog/blob/master/blogmd/git.md)
 
 ## QuickStart to Markdown
 https://guides.github.com/features/mastering-markdown/
