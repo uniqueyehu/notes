@@ -15,6 +15,9 @@ save some blogs and notes :smile:
 
 - [Emoji cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 
+## 小程序
+- [微信小程序介绍](https://github.com/uniqueyehu/notes/tree/master/miniprogram)
+
 # By the way
 Quoting the words of Steve Jobs :
 > Stay hungry. Stay foolish.:kissing_heart:
