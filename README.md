@@ -2,6 +2,7 @@
 save some blogs and notes :smile:
 
 ## 分布式
+- [分布式系统基础](https://github.com/uniqueyehu/notes/tree/master/distributed-system)
 
 ## 文件系统
 - [文件系统基础](https://github.com/uniqueyehu/notes/blob/master/filesystem/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80.md)
